@@ -1,0 +1,8 @@
+@keyframes bgChange {
+  0%, 100% { background-color: #a8e6cf; }
+  50% { background-color: #dcedc1; }
+}
+
+.animate-bgChange {
+  animation: bgChange 10s infinite;
+}
