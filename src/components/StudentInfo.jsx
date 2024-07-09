@@ -11,7 +11,6 @@ const StudentInfo = () => {
 
   return (
     <div className=" min-vw-100 position-relative min-vh-100 d-flex justify-content-center align-items-center animate-bgChange">
-      
       <div className="card p-4 shadow-lg text-center">
         <h1 className="text-2xl font-bold mb-3">Name: Jai Pradhiksha</h1>
         <p className="text-gray-600 mb-3">Registration No: 123456</p>
